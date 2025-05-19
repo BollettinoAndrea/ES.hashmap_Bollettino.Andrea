@@ -34,7 +34,7 @@ class Proprietario {
 
     @Override
     public String toString() {
-        return nome + " " + cognome + " (" + codiceFiscale + ")";
+        return nome + " " + cognome + "(" + codiceFiscale + ")";
     }
 }
 

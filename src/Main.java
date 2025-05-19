@@ -22,6 +22,5 @@ public class Main {
         Proprietario p = new Proprietario(in.nextLine().trim(),in.nextLine().trim(),in.nextLine().trim());
         targaProprietario.put(t,p);
         System.out.println(targaProprietario);
-
     }
 }
