@@ -1,3 +1,5 @@
+import java.util.*;
+
 class Proprietario {
     private String nome;
     private String cognome;
@@ -35,3 +37,4 @@ class Proprietario {
         return nome + " " + cognome + " (" + codiceFiscale + ")";
     }
 }
+

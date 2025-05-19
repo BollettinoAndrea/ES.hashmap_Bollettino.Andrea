@@ -32,3 +32,4 @@ class Targa {
         return numero;
     }
 }
+
